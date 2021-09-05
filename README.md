@@ -1,1 +1,2 @@
-## Plant Shop Spring based we app demo
+## Plant Shop
+Spring based we app demo
